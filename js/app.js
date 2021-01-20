@@ -8,6 +8,6 @@ var outputArea=document.querySelector("#output-area");
 
 function clickEventHandler()
 {
-    outputArea.innerText="vdghvnsbvbnfbv"+textareaInput.value;
+   outputArea.innerText="gdhf"+textareaInput.value;
 }
 btnTranslate.addEventListener("click",clickEventHandler)
