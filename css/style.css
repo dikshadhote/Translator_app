@@ -9,3 +9,12 @@
     width:650px;
     height:10vh;
 }
+#output-area
+{
+    margin-top: 1rem;
+    display:block;
+    padding: 1rem 1rem;
+    width:650px;
+    height:10vh;
+    border: 1px solid black;
+}

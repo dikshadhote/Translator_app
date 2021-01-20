@@ -1,8 +1,10 @@
 var btnTranslate=document.querySelector("#btn-translate");
 var textareaInput=document.querySelector("#textarea-input");
+var outputArea=document.querySelector("#output-area");
+
+
 function clickEventHandler()
 {
-    console.log("Listening..")
-    console.log("input",textareaInput.value);
+    outputArea.innerText="vdghvnsbvbnfbv"+textareaInput.value;
 }
 btnTranslate.addEventListener("click",clickEventHandler)
