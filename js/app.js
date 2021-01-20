@@ -15,7 +15,7 @@ function getTranslationURL(textareaInput)
 function errorHandler(error)
 {
     console.log("error occured",error)
-    alert("Sever issue !! rey after sometime")
+    alert("Sever issue !! Try after sometime")
 }
 function clickEventHandler()
 {
