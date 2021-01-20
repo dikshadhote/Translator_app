@@ -1,3 +1,2 @@
-console.log("Showing console msg");
-alert("alert msg");
-var temp=prompt("msg lelo bhaiya");
+var btnTranslate=document.querySelector("#btn-translate");
+console.log(btnTranslate);
